@@ -1,4 +1,4 @@
-CALCOLO_NUMERICO_MATLAB
+CALCOLO NUMERICO MATLAB
 =======================
 
 Possibili soluzioni agli esercizi di calcolo numerico (modulo del corso di analisi II presso Politecnico di Torino).
