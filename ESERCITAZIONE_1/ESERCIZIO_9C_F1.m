@@ -1,7 +1,8 @@
-%%%%%%   ESERCIZIO 9.c FOGLIO 1 %%%%%
-%%%%%%   ESERCIZIO 9.c FOGLIO 1 %%%%%
-%%%%%%   ESERCIZIO 9.c FOGLIO 1 %%%%%
+%%%%%%   ESERCIZIO 9.c  %%%%%
+%%%%%%   ESERCIZIO 9.c  %%%%%
+%%%%%%   ESERCIZIO 9.c  %%%%%
 
+%% pulisco l'ambiente di lavoro... %%
 clear all;
 clc;
 format long e;

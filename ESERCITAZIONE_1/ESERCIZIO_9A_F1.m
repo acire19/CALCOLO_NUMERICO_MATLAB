@@ -1,7 +1,5 @@
 
-%%%%%%   ESERCIZIO 9.a FOGLIO 1 %%%%%
-%%%%%%   ESERCIZIO 9.a FOGLIO 1 %%%%%
-%%%%%%   ESERCIZIO 9.a FOGLIO 1 %%%%%
+%%%%%%   ESERCIZIO 9.a %%%%%
 
 clear all;
 clc;

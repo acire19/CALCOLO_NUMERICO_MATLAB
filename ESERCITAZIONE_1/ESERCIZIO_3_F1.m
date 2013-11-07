@@ -1,6 +1,6 @@
-%------ ESERCIZIO n.3 - FOGLIO 1 ------%
-%------ ESERCIZIO n.3 - FOGLIO 1 ------%
-%------ ESERCIZIO n.3 - FOGLIO 1 ------%
+%------ ESERCIZIO n.3 -------%
+%------ ESERCIZIO n.3 -------%
+%------ ESERCIZIO n.3 -------%
 
 n=10;               % dimensione della matrice.
 x=5*ones(n,1);      % vettore a n componenti uguali a 1.
