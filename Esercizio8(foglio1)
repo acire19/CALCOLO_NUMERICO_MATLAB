@@ -1,0 +1,10 @@
+%esercizio 8 foglio 1
+y=linspace(0,1);
+x=linspace(0,1);
+[X,Y]=meshgrid(x,y);
+Z=(X.*(X-1).*Y.*(Y-1));
+figure(1)
+surf(Z)
+F=(X.*(X-1).*sin(8*X).*Y.*(Y-1).*cos(8*Y));
+figure(2)
+surf(F)
